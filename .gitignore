@@ -1,0 +1,7 @@
+WQymWallQRCode.xcodeproj/xcuserdata/
+WQymWallQRCode.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+WQymWallQRCode.xcodeproj/project.xcworkspace/xcuserdata/
